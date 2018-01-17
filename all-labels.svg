@@ -164,6 +164,56 @@
        x2="693.828"
        y2="1463.1815"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4453"
+       id="linearGradient4671"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-183.21619,-168.83385)"
+       x1="548.09027"
+       y1="1361.616"
+       x2="707.76068"
+       y2="1547.746" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4499"
+       id="linearGradient4673"
+       gradientUnits="userSpaceOnUse"
+       x1="558.77972"
+       y1="1447.5242"
+       x2="693.828"
+       y2="1463.1815"
+       gradientTransform="translate(-354.28571,-168.83385)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4479"
+       id="linearGradient4675"
+       gradientUnits="userSpaceOnUse"
+       x1="613.51263"
+       y1="1417.5007"
+       x2="644.61414"
+       y2="1435.2686"
+       gradientTransform="translate(-354.28571,-168.83385)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4453"
+       id="linearGradient4677"
+       gradientUnits="userSpaceOnUse"
+       x1="548.09027"
+       y1="1361.616"
+       x2="707.76068"
+       y2="1547.746"
+       gradientTransform="translate(-354.28571,-168.83385)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4479"
+       id="linearGradient4719"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(257.86673,-334.35889)"
+       x1="613.51263"
+       y1="1417.5007"
+       x2="644.61414"
+       y2="1435.2686" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -172,9 +222,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="501.33861"
-     inkscape:cy="226.58156"
+     inkscape:zoom="1.4"
+     inkscape:cx="589.82756"
+     inkscape:cy="505.66706"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -201,7 +251,9 @@
      id="layer1">
     <g
        transform="matrix(0.21819428,0,0,0.21819428,-332.81169,-187.48329)"
-       id="g7279">
+       id="g7279"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <text
          sodipodi:linespacing="125%"
          id="text4228"
@@ -384,7 +436,9 @@
     </g>
     <g
        transform="matrix(0.21819428,0,0,0.21819428,-332.81169,-187.48329)"
-       id="g7317">
+       id="g7317"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.38459206px;line-height:125%;font-family:Avenir;-inkscape-font-specification:'Avenir, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.39999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -563,7 +617,9 @@
     </g>
     <g
        transform="matrix(0.21819428,0,0,0.21819428,-332.81169,-187.48329)"
-       id="g7463">
+       id="g7463"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <text
          sodipodi:linespacing="125%"
          id="text5368"
@@ -742,7 +798,9 @@
     </g>
     <g
        transform="matrix(0.21819428,0,0,0.21819428,-332.81169,-187.48329)"
-       id="g7427">
+       id="g7427"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.38459206px;line-height:125%;font-family:Avenir;-inkscape-font-specification:'Avenir, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.39999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -917,7 +975,9 @@
     </g>
     <g
        transform="matrix(0.21819428,0,0,0.21819428,-332.81169,-187.48329)"
-       id="g7354">
+       id="g7354"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.38459206px;line-height:125%;font-family:Avenir;-inkscape-font-specification:'Avenir, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.39999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1092,7 +1152,9 @@
     </g>
     <g
        transform="matrix(0.21819428,0,0,0.21819428,-332.81169,-187.48329)"
-       id="g7390">
+       id="g7390"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <text
          sodipodi:linespacing="125%"
          id="text5504"
@@ -1271,7 +1333,9 @@
     </g>
     <g
        id="g4565"
-       transform="translate(-354.28571,-512.28572)">
+       transform="translate(-304.28571,-512.28572)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient4477);stroke-width:2.65189767;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect4475"
@@ -1444,5 +1508,192 @@
              id="tspan4417">Warning: Safety of this product not determined</tspan></text>
       </g>
     </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient4671);stroke-width:2.65189767;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4603"
+       width="157.86732"
+       height="186.78365"
+       x="365.3512"
+       y="1191.576"
+       ry="10.213613" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4605"
+       y="1212.8761"
+       x="375.81909"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.62974405px;line-height:125%;font-family:Avenir;-inkscape-font-specification:'Avenir, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.39999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4607"
+         sodipodi:role="line"
+         x="375.81909"
+         y="1212.8761"><tspan
+   id="tspan4609"
+   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:6.62974405px;line-height:125%;font-family:Avenir;-inkscape-font-specification:'Avenir, Ultra-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Ingredients:</tspan> Grapeseed Oil, Olive Oil, </tspan><tspan
+         id="tspan4611"
+         sodipodi:role="line"
+         x="375.81909"
+         y="1221.1633">Aloe Vera, Essential Oil of: Lemon, </tspan><tspan
+         id="tspan4613"
+         sodipodi:role="line"
+         x="375.81909"
+         y="1229.4504">Sweet Orange</tspan><tspan
+         id="tspan4615"
+         sodipodi:role="line"
+         x="375.81909"
+         y="1237.7377" /></text>
+    <text
+       x="273.87427"
+       y="1292.0466"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.29546261px;line-height:125%;font-family:Allura;-inkscape-font-specification:'Allura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient4673);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4617"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4619"
+         sodipodi:role="line"
+         x="275.85669"
+         y="1292.0466"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.29581261px;line-height:125%;font-family:Avenir;-inkscape-font-specification:'Avenir, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient4673);fill-opacity:1">Tridoshic Oil Cleanser </tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4621"
+       y="1352.3379"
+       x="273.16724"
+       style="font-style:normal;font-weight:normal;font-size:6.49196482px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.49203682px;line-height:125%;font-family:Avenir;-inkscape-font-specification:'Avenir, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1"
+         y="1352.3379"
+         x="273.16724"
+         sodipodi:role="line"
+         id="tspan4623">1 fl.oz./30ml</tspan></text>
+    <text
+       x="275.59631"
+       y="1316.3796"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.958498px;line-height:125%;font-family:Allura;-inkscape-font-specification:'Allura, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4625"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4627"
+         sodipodi:role="line"
+         x="275.59631"
+         y="1316.3796"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.95869255px;line-height:125%;font-family:Avenir;-inkscape-font-specification:'Avenir, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1">All-Natural Ayurveda</tspan><tspan
+         id="tspan4629"
+         sodipodi:role="line"
+         x="275.59631"
+         y="1326.328"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.95869255px;line-height:125%;font-family:Avenir;-inkscape-font-specification:'Avenir, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1">Normal to Dry Skin</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4631"
+       y="1226.9713"
+       x="218.68689"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:15.24271965px;line-height:125%;font-family:'.HeitiUI J';-inkscape-font-specification:'.HeitiUI J, Ultra-Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1226.9713"
+         x="218.68689"
+         id="tspan4633"
+         sodipodi:role="line">YOGIC BEAUTY</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4635"
+       d="m 273.18064,1245.7717 c 0.0133,0.017 0.0272,0.035 0.0402,0.052 -1.61861,0.6691 -3.45415,2.1231 -4.62038,4.3479 -0.0229,0.044 -0.0453,0.088 -0.0676,0.132 -1.07111,2.1354 -1.17244,4.3613 -0.70354,6.0361 -0.35917,-0.3469 -0.76137,-0.6781 -1.22036,-0.981 -0.70313,-0.4631 -1.52049,-0.8394 -2.40586,-1.1067 -1.06203,-0.318 -2.17085,-0.4702 -3.21574,-0.5154 -0.18975,-0.01 -0.37754,-0.013 -0.56375,-0.015 -1.30345,-0.014 -2.51367,0.1135 -3.53375,0.2788 l -0.51965,0.077 c -1.9e-4,1.2785 0.18571,2.9247 0.94291,4.5912 0.37036,0.8197 0.90014,1.6547 1.65038,2.4311 -0.29967,-0.07 -0.60914,-0.1201 -0.92726,-0.1447 -1.79494,-0.027 -3.62234,0.7219 -5.32711,1.8499 1.40319,1.6007 3.05987,3.1266 4.97605,4.2807 0.008,0 0.0159,0.01 0.0241,0.012 1.69206,0.8382 3.52851,1.3369 5.37688,1.4181 1.92412,0.081 3.76077,-0.2971 5.36695,-0.9496 1.95849,-0.797 3.55512,-1.9648 4.78181,-3.1177 1.21104,1.1415 2.79437,2.3055 4.74306,3.1027 1.59961,0.6533 3.43412,1.0354 5.36091,0.9571 1.85369,-0.079 3.69942,-0.5785 5.40177,-1.423 0.0817,-0.049 0.16288,-0.099 0.24365,-0.149 1.813,-1.1316 3.38996,-2.5947 4.73702,-4.132 -1.69997,-1.1284 -3.52866,-1.8848 -5.33207,-1.8659 -0.3077,0.023 -0.60746,0.071 -0.89846,0.1361 0.73738,-0.7693 1.25983,-1.5951 1.62618,-2.4059 0.75722,-1.6665 0.94312,-3.3126 0.94292,-4.5911 l -0.51965,-0.077 c -1.02008,-0.1655 -2.23029,-0.2934 -3.53372,-0.2789 -0.18621,0 -0.37403,0.01 -0.56377,0.015 -1.04489,0.045 -2.15371,0.1974 -3.21575,0.5154 -0.88536,0.2672 -1.70272,0.6434 -2.40585,1.1066 -0.46613,0.3077 -0.87341,0.6447 -1.23673,0.9973 0.4921,-1.6874 0.39749,-3.9714 -0.72523,-6.1576 -0.004,-0.01 -0.009,-0.018 -0.014,-0.027 -1.14508,-2.2021 -2.95166,-3.664 -4.57409,-4.3597 0.004,-0.01 0.008,-0.011 0.012,-0.015 -0.008,0 -0.0159,0.01 -0.0239,0.011 -0.0263,-0.011 -0.0528,-0.024 -0.079,-0.035 z"
+       style="fill:url(#linearGradient4675);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:35;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 235.47538,1305.5636 c -1.5181,0 -2.73999,0.9244 -2.73999,2.0729 l 0,23.3281 c 0,1.1486 1.22189,2.0729 2.73999,2.0729 l 79.57622,0 c 1.51811,0 2.74,-0.9244 2.74,-2.0729 l 0,-23.3281 c 0,-1.1485 -1.22189,-2.0729 -2.74,-2.0729 l -79.57622,0 z m 0.23123,0.2918 79.11379,0 c 1.48582,0 2.68192,0.9049 2.68192,2.029 l 0,22.8324 c 0,1.1241 -1.1961,2.029 -2.68192,2.029 l -79.11379,0 c -1.48584,0 -2.68194,-0.9049 -2.68194,-2.029 l 0,-22.8324 c 0,-1.1241 1.1961,-2.029 2.68194,-2.029 z"
+       id="path4637"
+       inkscape:connector-curvature="0" />
+    <rect
+       ry="10.213613"
+       y="1191.576"
+       x="194.28168"
+       height="186.78365"
+       width="157.86732"
+       id="rect4639"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient4677);stroke-width:2.65189767;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g4641"
+       transform="matrix(0.22144328,0,0,0.22144328,-157.70859,796.85554)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:29.93919373px;line-height:125%;font-family:Avenir;-inkscape-font-specification:'Avenir, Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="2407.793"
+         y="1996.6639"
+         id="text4643"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4645"
+           x="2407.793"
+           y="1996.6639"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:29.93919373px;line-height:125%;font-family:Avenir;-inkscape-font-specification:'Avenir, Heavy';text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan4647">Directions:</tspan> Take a few drops of Tridoshic</tspan><tspan
+           sodipodi:role="line"
+           id="tspan4649"
+           x="2407.793"
+           y="2034.0879">Oil Cleanser and work the oil into the face for</tspan><tspan
+           sodipodi:role="line"
+           id="tspan4651"
+           x="2407.793"
+           y="2071.512">up to a minute for gentle exfoliatiion and</tspan><tspan
+           sodipodi:role="line"
+           id="tspan4653"
+           x="2407.793"
+           y="2108.936">cleansing. Rinse with lukewarm water. Pat</tspan><tspan
+           sodipodi:role="line"
+           id="tspan4655"
+           x="2407.793"
+           y="2146.3599">excess oil off.</tspan><tspan
+           sodipodi:role="line"
+           id="tspan4657"
+           x="2407.793"
+           y="2183.7839" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.78817558px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="2717.3811"
+         y="2378.0681"
+         id="text4659"
+         sodipodi:linespacing="125%"><tspan
+           y="2378.0681"
+           x="2721.0085"
+           sodipodi:role="line"
+           id="tspan4661">Manufactured for Kimberly Beauty LLC </tspan><tspan
+           y="2406.5532"
+           x="2717.3811"
+           sodipodi:role="line"
+           id="tspan4663">San Francisco, CA</tspan><tspan
+           y="2435.0386"
+           x="2717.3811"
+           sodipodi:role="line"
+           id="tspan4665">www.yogic-beauty.com</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4667"
+         y="2501.4485"
+         x="2719.156"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.78844452px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.78844452px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1"
+           y="2501.4485"
+           x="2719.156"
+           sodipodi:role="line"
+           id="tspan4669">Warning: Safety of this product not determined</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:15.24271965px;line-height:125%;font-family:'.HeitiUI J';-inkscape-font-specification:'.HeitiUI J, Ultra-Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="830.83936"
+       y="1117.8749"
+       id="text4713"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4715"
+         x="830.83936"
+         y="1117.8749">YOGIC BEAUTY</tspan></text>
+    <path
+       style="fill:url(#linearGradient4719);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 885.33308,1080.2466 c 0.0133,0.017 0.0272,0.035 0.0402,0.052 -1.61861,0.6691 -3.45415,2.1231 -4.62038,4.3479 -0.0229,0.044 -0.0453,0.088 -0.0676,0.132 -1.07111,2.1354 -1.17244,4.3613 -0.70354,6.0361 -0.35917,-0.3469 -0.76137,-0.6781 -1.22036,-0.981 -0.70313,-0.4631 -1.52049,-0.8394 -2.40586,-1.1067 -1.06203,-0.318 -2.17085,-0.4702 -3.21574,-0.5154 -0.18975,-0.01 -0.37754,-0.013 -0.56375,-0.015 -1.30345,-0.014 -2.51367,0.1135 -3.53375,0.2788 l -0.51965,0.077 c -1.9e-4,1.2785 0.18571,2.9247 0.94291,4.5912 0.37036,0.8197 0.90014,1.6547 1.65038,2.4311 -0.29967,-0.07 -0.60914,-0.1201 -0.92726,-0.1447 -1.79494,-0.027 -3.62234,0.7219 -5.32711,1.8499 1.40319,1.6007 3.05987,3.1266 4.97605,4.2807 0.008,0 0.0159,0.01 0.0241,0.012 1.69206,0.8382 3.52851,1.3369 5.37688,1.4181 1.92412,0.081 3.76077,-0.2971 5.36695,-0.9496 1.95849,-0.797 3.55512,-1.9648 4.78181,-3.1177 1.21104,1.1415 2.79437,2.3055 4.74306,3.1027 1.59961,0.6533 3.43412,1.0354 5.36091,0.9571 1.85369,-0.079 3.69942,-0.5785 5.40177,-1.423 0.0817,-0.049 0.16288,-0.099 0.24365,-0.149 1.813,-1.1316 3.38996,-2.5947 4.73702,-4.132 -1.69997,-1.1284 -3.52866,-1.8848 -5.33207,-1.8659 -0.3077,0.023 -0.60746,0.071 -0.89846,0.1361 0.73738,-0.7693 1.25983,-1.5951 1.62618,-2.4059 0.75722,-1.6665 0.94312,-3.3126 0.94292,-4.5911 l -0.51965,-0.077 c -1.02008,-0.1655 -2.23029,-0.2934 -3.53372,-0.2789 -0.18621,0 -0.37403,0.01 -0.56377,0.015 -1.04489,0.045 -2.15371,0.1974 -3.21575,0.5154 -0.88536,0.2672 -1.70272,0.6434 -2.40585,1.1066 -0.46613,0.3077 -0.87341,0.6447 -1.23673,0.9973 0.4921,-1.6874 0.39749,-3.9714 -0.72523,-6.1576 -0.004,-0.01 -0.009,-0.018 -0.014,-0.027 -1.14508,-2.2021 -2.95166,-3.664 -4.57409,-4.3597 0.004,-0.01 0.008,-0.011 0.012,-0.015 -0.008,0 -0.0159,0.01 -0.0239,0.011 -0.0263,-0.011 -0.0528,-0.024 -0.079,-0.035 z"
+       id="path4717"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
